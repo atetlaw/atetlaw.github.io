@@ -1,0 +1,26 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Andrew Tetlaw",
+	"icon": "https://micro.blog/atetlaw/avatar.jpg",
+	"home_page_url": "https://atetlaw.micro.blog/",
+	"feed_url": "https://atetlaw.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://atetlaw.micro.blog/2018/10/23/lots-of-friendly.html",
+	      	
+			"content_text": "Lots of friendly people around here :)\n",
+			"date_published": "2018-10-23T21:43:41+08:00",
+			"url": "https://atetlaw.micro.blog/2018/10/23/lots-of-friendly.html"
+		},
+		
+		{
+			"id": "http://atetlaw.micro.blog/2018/10/22/hello-microblog.html",
+	      	
+			"content_text": "Hello micro.blog\n",
+			"date_published": "2018-10-22T14:34:10+08:00",
+			"url": "https://atetlaw.micro.blog/2018/10/22/hello-microblog.html"
+		}
+		
+	]
+}
