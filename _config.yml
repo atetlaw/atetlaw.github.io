@@ -1,0 +1,56 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Andrew Tetlaw"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/atetlaw\">@atetlaw on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/atetlaw\">@atetlaw on Micro.blog</a>."
+baseurl: ""
+url: "https://atetlaw.micro.blog"
+markdown: "kramdown"
+username: "atetlaw"
+microblog_user: "atetlaw"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Andrew Tetlaw"
+name: "Andrew Tetlaw"
+gravatar_hash: "3c95973962a6a9f56329d8d9515098ef"
+avatar: "https://micro.blog/atetlaw/avatar.jpg"
+full_name: "Andrew Tetlaw"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Singapore"
+site_id: "6870"
+gems: ["jekyll-paginate"]
+itunes_description: ""
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Andrew Tetlaw"
+itunes_email: ""
+podcast: false
