@@ -4,16 +4,64 @@
     <title>Andrew Tetlaw</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/atetlaw&quot;&gt;@atetlaw on Micro.blog&lt;/a&gt;.</description>
     <link>https://atetlaw.micro.blog/</link>
-    <pubDate>Fri, 26 Oct 2018 15:25:40 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Oct 2018 15:25:40 +0800</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 12:21:11 +0800</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 12:21:11 +0800</lastBuildDate>
     
       <item>
       	
-        <title>DiningRoom Table Project - Part 1</title>
-        
-        <description>&lt;p&gt;Selecting the wood: some lovely Western Australian Marri boards&lt;/p&gt;
+        <description>&lt;p&gt;I’m building a document-based app, and having to setup a seperate Xcode framework target for the document model code, so it can be used in the app and the app extensions. Turned out to be a really nice way to segregate an Xcode project.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Nov 2018 12:21:04 +0800</pubDate>
+        <link>https://atetlaw.micro.blog/2018/11/09/im-building-a.html</link>
+        <guid isPermaLink="true">http://atetlaw.micro.blog/2018/11/09/im-building-a.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dining Room Table Project - Part 4&lt;/p&gt;
+
+&lt;p&gt;First board filled, sanded and oiled. I’m in love with Marri.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://atetlaw.micro.blog/uploads/2018/b708a1e6ec.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Oct 2018 15:43:31 +0800</pubDate>
+        <link>https://atetlaw.micro.blog/2018/10/26/074331.html</link>
+        <guid isPermaLink="true">http://atetlaw.micro.blog/2018/10/26/074331.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dining Room Table Project - Part 3&lt;/p&gt;
+
+&lt;p&gt;Working out the best way to fill the holes, cracks and gnarly bits with clear expoxy resin&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://atetlaw.micro.blog/uploads/2018/63a301ae2d.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Oct 2018 15:42:24 +0800</pubDate>
+        <link>https://atetlaw.micro.blog/2018/10/26/074224.html</link>
+        <guid isPermaLink="true">http://atetlaw.micro.blog/2018/10/26/074224.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dining Room Table Project - Part 2: Making the steel legs&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://atetlaw.micro.blog/uploads/2018/fb0293f145.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Oct 2018 15:30:27 +0800</pubDate>
+        <link>https://atetlaw.micro.blog/2018/10/26/dining-room-table.html</link>
+        <guid isPermaLink="true">http://atetlaw.micro.blog/2018/10/26/dining-room-table.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dining Room Table Project - Part 1&lt;/p&gt;
+
+&lt;p&gt;Selecting the wood: some lovely Western Australian Marri boards&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://atetlaw.micro.blog/uploads/2018/5a57114feb.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://atetlaw.micro.blog/uploads/2018/aff16115c9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Oct 2018 15:24:30 +0800</pubDate>
         <link>https://atetlaw.micro.blog/2018/10/26/diningroom-table-project.html</link>
