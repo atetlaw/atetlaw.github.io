@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://atetlaw.micro.blog/2018/11/15/swift-enums-are.html",
+	      	
+			"content_html": "<p>Swift enums are a thing of beauty and wonder</p>\n",
+			"date_published": "2018-11-15T08:01:49+08:00",
+			"url": "https://atetlaw.micro.blog/2018/11/15/swift-enums-are.html"
+		},
+		
+		{
 			"id": "http://atetlaw.micro.blog/2018/11/09/im-building-a.html",
 	      	
 			"content_html": "<p>I’m building a document-based app, and having to setup a seperate Xcode framework target for the document model code, so it can be used in the app and the app extensions. Turned out to be a really nice way to segregate an Xcode project.</p>\n",
