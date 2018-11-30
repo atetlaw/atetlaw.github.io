@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 12:21:04 +0800
 guid: http://atetlaw.micro.blog/2018/11/09/im-building-a.html
 ---
