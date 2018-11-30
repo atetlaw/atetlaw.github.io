@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://atetlaw.micro.blog/uploads/2018/aff16115c9.jpg
 date: 2018-10-26 15:24:30 +0800
 guid: http://atetlaw.micro.blog/2018/10/26/diningroom-table-project.html
 ---
