@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://atetlaw.micro.blog/2018/11/30/in-swift-what.html",
+	      	
+			"content_html": "<p>In Swift what is the nature of an optional <code class=\"highlighter-rouge\">Void</code> ? If it’s <code class=\"highlighter-rouge\">.some</code> then it’s nothing, but if it’s <code class=\"highlighter-rouge\">.none</code> then, is it everything?</p>\n",
+			"date_published": "2018-11-30T14:35:11+08:00",
+			"url": "https://atetlaw.micro.blog/2018/11/30/in-swift-what.html"
+		},
+		
+		{
 			"id": "http://atetlaw.micro.blog/2018/11/18/one-of-my.html",
 	      	
 			"content_html": "<p>One of my eldest sons said to me this morning “I think one of the best parts of parenting must be trolling your kids”.  I can’t begin to describe the feeling of satisfaction, and yes, pure joy, that I experienced hearing those words; like I did something right as a parent.</p>\n",
