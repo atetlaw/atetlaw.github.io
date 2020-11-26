@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2020/11/23/great-article-by.html",
+				
+				"content_html": "<p>Great article by Independent Australia :<a href=\"https://independentaustralia.net/politics/politics-display/manipulated-collective-memory-makes-most-australians-much-poorer,14545\">independentaustralia.net/politics/&hellip;</a> Julia Gillard gets far less credit that she deserves.</p>\n",
+				"content_text": "Great article by Independent Australia :[independentaustralia.net/politics/...](https://independentaustralia.net/politics/politics-display/manipulated-collective-memory-makes-most-australians-much-poorer,14545) Julia Gillard gets far less credit that she deserves.\n",
+				"date_published": "2020-11-23T11:22:13+08:00",
+				"url": "https://dexagogo.com/2020/11/23/great-article-by.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2020/11/19/was-woken-up.html",
 				
 				"content_html": "<p>Was woken up last night by an argument I was having in my dream: you can&rsquo;t apply the practice of software metrics to a marriage! You&rsquo;re only measuring one dimension, growth, and you don&rsquo;t know where that&rsquo;ll come from! Truth bombs?</p>\n",
