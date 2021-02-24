@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2021/02/24/discoverred-this-morning.html",
+				
+				"content_html": "<p>Discoverred this morning that there are no posts on the axiiio Facebook page (<a href=\"https://www.facebook.com/axiiio\">https://www.facebook.com/axiiio</a>) and we can&rsquo;t post new ones. That&rsquo;s because Facebook has classified us as a &ldquo;news&rdquo; site and currently blocked in Australia! WTH?</p>\n\n<p><img src=\"uploads/2021/b3d1b661a8.png\" width=\"600\" height=\"265\" alt=\"\" /></p>\n",
+				"content_text": "Discoverred this morning that there are no posts on the axiiio Facebook page (https://www.facebook.com/axiiio) and we can't post new ones. That's because Facebook has classified us as a \"news\" site and currently blocked in Australia! WTH?\n\n<img src=\"uploads/2021/b3d1b661a8.png\" width=\"600\" height=\"265\" alt=\"\" />\n",
+				"date_published": "2021-02-24T10:53:16+08:00",
+				"url": "https://dexagogo.com/2021/02/24/discoverred-this-morning.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2020/12/09/hey-i-wrote.html",
 				
 				"content_html": "<p>Hey I wrote a CoreData tutorial:\n<a href=\"https://www.raywenderlich.com/14958063-modern-efficient-core-data\">www.raywenderlich.com/14958063-&hellip;</a></p>\n\n<p>This whole tutorial is the result of satisfying a strange compulsion I had: starting a tutorial with the one word sentence &ldquo;Fireballs!&rdquo;</p>\n",
