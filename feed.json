@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2021/03/22/making-the-example.html",
+				
+				"content_html": "<p>Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?</p>\n\n<p><img src=\"uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?\n\n<img src=\"uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-22T19:04:04+08:00",
+				"url": "https://dexagogo.com/2021/03/22/making-the-example.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2021/02/24/discoverred-this-morning.html",
 				
 				"content_html": "<p>Discoverred this morning that there are no posts on the axiiio Facebook page (<a href=\"https://www.facebook.com/axiiio\">https://www.facebook.com/axiiio</a>) and we can&rsquo;t post new ones. That&rsquo;s because Facebook has classified us as a &ldquo;news&rdquo; site and currently blocked in Australia! WTH?</p>\n\n<p><img src=\"uploads/2021/b3d1b661a8.png\" width=\"600\" height=\"265\" alt=\"\" /></p>\n",
