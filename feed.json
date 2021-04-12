@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2021/04/13/dont-know-about.html",
+				
+				"content_html": "<p>Don&rsquo;t know about you but &ldquo;Get started with Trello Workspaces: add your Personal boards to a Workspace now, or it’ll happen automatically starting April 24th.&rdquo; seems vaguely threatening?!</p>\n",
+				"content_text": "Don't know about you but \"Get started with Trello Workspaces: add your Personal boards to a Workspace now, or it’ll happen automatically starting April 24th.\" seems vaguely threatening?!\n",
+				"date_published": "2021-04-13T07:16:07+08:00",
+				"url": "https://dexagogo.com/2021/04/13/dont-know-about.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2021/03/22/making-the-example.html",
 				
 				"content_html": "<p>Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?</p>\n\n<p><img src=\"uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" /></p>\n",
