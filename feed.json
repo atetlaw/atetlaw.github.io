@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2021/07/12/a-few-years.html",
+				
+				"content_html": "<p>A few years back there was a backlash against job descriptions seeking rockstars, or ninjas. And that was a relief. Now, I think we&rsquo;re entering a post-startup era; I keep seeing job descriptions emphasising low-ego engineering cultures. Low ego seems to be the new value statement describing the essential ingredient to good engineering, replacing the rockstar?</p>\n",
+				"content_text": "A few years back there was a backlash against job descriptions seeking rockstars, or ninjas. And that was a relief. Now, I think we're entering a post-startup era; I keep seeing job descriptions emphasising low-ego engineering cultures. Low ego seems to be the new value statement describing the essential ingredient to good engineering, replacing the rockstar?\n",
+				"date_published": "2021-07-12T16:24:00+08:00",
+				"url": "https://dexagogo.com/2021/07/12/a-few-years.html"
+			},
+			{
+				"id": "http://atetlaw.micro.blog/2021/07/03/the-tech-culture.html",
+				
+				"content_html": "<p>The tech culture attitude that you have to get on the train or else get left behind is horseshit. Never met a programmer who was unable to get up to speed about something new, when the need arose.</p>\n",
+				"content_text": "The tech culture attitude that you have to get on the train or else get left behind is horseshit. Never met a programmer who was unable to get up to speed about something new, when the need arose.\n",
+				"date_published": "2021-07-03T23:31:18+08:00",
+				"url": "https://dexagogo.com/2021/07/03/the-tech-culture.html"
+			},
+			{
+				"id": "http://atetlaw.micro.blog/2021/06/29/my-newest-article.html",
+				
+				"content_html": "<p>My newest article is up on raywenderlich.com: Getting a Redux Vibe Into SwiftUI <a href=\"https://www.raywenderlich.com/22096649-getting-a-redux-vibe-into-swiftui\">www.raywenderlich.com/22096649-&hellip;</a></p>\n\n<p>The bit I&rsquo;m most proud of: &ldquo;Usually, state management code feels like soggy bread held together with duct tape.&rdquo;</p>\n",
+				"content_text": "My newest article is up on raywenderlich.com: Getting a Redux Vibe Into SwiftUI [www.raywenderlich.com/22096649-...](https://www.raywenderlich.com/22096649-getting-a-redux-vibe-into-swiftui)\r\n\r\nThe bit I'm most proud of: \"Usually, state management code feels like soggy bread held together with duct tape.\"\r\n",
+				"date_published": "2021-06-29T12:33:18+08:00",
+				"url": "https://dexagogo.com/2021/06/29/my-newest-article.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2021/06/29/apple-now-advertising.html",
 				
 				"content_html": "<p>Apple now advertising in settings app? Seriously?</p>\n\n<p><img src=\"uploads/2021/94003c97ff.jpg\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
@@ -41,8 +65,8 @@
 			{
 				"id": "http://atetlaw.micro.blog/2021/03/22/making-the-example.html",
 				
-				"content_html": "<p>Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?</p>\n\n<p><img src=\"uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?\n\n<img src=\"uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?</p>\n\n<p><img src=\"https://dexagogo.com/uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Making the example app for my next article about using a Redux-style architecture in SwiftUI. Can you guess what the app is called?\n\n<img src=\"https://dexagogo.com/uploads/2021/ef11fa3fe0.png\" width=\"323\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-22T19:04:04+08:00",
 				"url": "https://dexagogo.com/2021/03/22/making-the-example.html"
 			},
