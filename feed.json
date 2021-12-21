@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://atetlaw.micro.blog/2021/12/21/a-project-ive.html",
+				
+				"content_html": "<p>A project I&rsquo;ve been involved with since March has just launched their public beta! Check it out at <a href=\"https://www.justtact.com\">www.justtact.com</a></p>\n",
+				"content_text": "A project I've been involved with since March has just launched their public beta! Check it out at [www.justtact.com](https://www.justtact.com)\n",
+				"date_published": "2021-12-21T20:29:19+08:00",
+				"url": "https://dexagogo.com/2021/12/21/a-project-ive.html"
+			},
+			{
 				"id": "http://atetlaw.micro.blog/2021/11/05/if-youve-ever.html",
 				
 				"content_html": "<p>If you&rsquo;ve ever wondered what SwiftUI view preferences were look no further! Take a trip through the daisies with Buzzy: <a href=\"https://www.raywenderlich.com/26733845-swiftui-view-preferences-tutorial-for-ios\">www.raywenderlich.com/26733845-&hellip;</a></p>\n",
